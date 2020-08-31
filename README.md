@@ -16,14 +16,14 @@
 
 ### Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-![first_tab_image]
+![first_tab_image](img/First_tab_excel_challenge.PNG)
 
 ### Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
 
 
 ### Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
 
-![second_tab_image]
+![second_tab_image](img/Second_tab_excel_challenge.PNG)
 
 ### The dates stored within the deadline and launched_at columns use Unix timestamps. Fortunately for us, there is a formula that can be used to convert these timestamps to a normal date.
 
@@ -35,7 +35,7 @@
 
 ### Now create a pivot chart line graph that visualizes this new table.
 
-![third_tab_image]
+![third_tab_image](img/Third_tab_excel_challenge.PNG)
 
 ### Create a new sheet with 8 columns:
 #### Goal
@@ -67,7 +67,7 @@
 
 ### Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
-![Fourth_tab_image]
+![Fourth_tab_image](img/Fourth_tab_excel_challenge.PNG)
 
 ## Statistical Analysis
 ### If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
@@ -84,7 +84,7 @@
 #### The variance of the number of backers.
 #### The standard deviation of the number of backers.
 
-![Fifth_tab_image]
+![Fifth_tab_image](img/Fifth_tab_excel_challenge.PNG)
 
 ### Use your data to determine whether the mean or the median summarizes the data more meaningfully.
 
